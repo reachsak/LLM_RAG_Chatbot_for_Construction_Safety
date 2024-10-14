@@ -11,6 +11,10 @@
 
 This project involves creating a retrieval-augmented generation (RAG) chatbot utilizing a large language model (LLM) to provide real-time safety information and guidance on construction sites. The chatbot aims to enhance worker understanding of safety protocols and increase awareness of construction site hazards.
 
+## Manuscript
+Under preparation...
+
+
 ### Key Features
 
 - **Retrieval-Augmented Generation (RAG):** Combines retrieval-based methods with generative responses to provide accurate and contextually relevant safety information.
