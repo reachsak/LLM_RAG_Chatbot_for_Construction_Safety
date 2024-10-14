@@ -1,7 +1,6 @@
 # LLM-Based Retrieval-Augmented Generation (RAG) Chatbot for Construction Safety
 
-**Date:** January 2024 – Present  
-**Institution:** Virginia Polytechnic Institute and State University
+
 
 ## Demo
 
