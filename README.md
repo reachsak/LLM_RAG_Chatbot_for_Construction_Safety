@@ -1,18 +1,14 @@
 # LLM-Based Retrieval-Augmented Generation (RAG) Chatbot for Construction Safety
 
+## Project Descrition
+
+Developed a RAG chatbot using LLaMA 3, LlamaIndex, and a vector database to provide construction personnel with instant access to safety protocols and building codes. The AI-powered chatbot offer accurate and contextually relevant information from a construction safety standards database. This system enhances safety awareness and promotes a safer construction environment through efficient knowledge retrieval.
 
 
 ## Video Demo
 
 [![Watch the demo video](https://img.youtube.com/vi/wEs1zGEoRHY/0.jpg)](https://www.youtube.com/watch?v=wEs1zGEoRHY)  
 *Click on the image to view the video.*
-
-## Project Overview
-
-This project involves creating a retrieval-augmented generation (RAG) chatbot utilizing a large language model (LLM) to provide real-time safety information and guidance on construction sites. The chatbot aims to enhance worker understanding of safety protocols and increase awareness of construction site hazards.
-
-## Manuscript
-Under preparation...
 
 
 ### Key Features
@@ -21,22 +17,18 @@ Under preparation...
 - **Real-Time Safety Guidance:** Offers instant assistance and guidance on safety protocols to workers on construction sites.
 - **Enhanced Understanding:** Aims to improve workers' awareness and compliance with safety regulations through interactive and dynamic responses.
 
-## Getting Started
-
 ### Requirements
+- Open-source Large language model (e.g., LLaMA)
+- Generative AI inference tool. llama.cpp
+- Python 3.10
+- qdrant database
+- llamaindex
 
-- Python 3.x
-- Large Language Model (LLM)
-- Retrieval-Augmented Generation (RAG) framework
-
-### Installation
-
-*Coming soon...*
-
-## Contributing
-
-Contributions are welcome! Please read the `CONTRIBUTING.md` file for details on how to contribute to this project.
+## Detailed setup guide
+Coming soon.....
 
 ## License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+## Manuscript
+Under preparation...
