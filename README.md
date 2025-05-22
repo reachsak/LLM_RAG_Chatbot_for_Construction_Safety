@@ -24,8 +24,10 @@ Developed a RAG chatbot using LLaMA 3, LlamaIndex, and a vector database to prov
 - qdrant database
 - llamaindex
 
-## Detailed setup guide
-Coming soon.....
+## Setup guide
+Go to the frontend folder, go to terminal
+Run " npm install" 
+Run " npm run start"
 
 ## License
 This project is licensed under the MIT License.
